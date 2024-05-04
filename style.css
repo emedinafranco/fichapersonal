@@ -77,6 +77,10 @@ a {
   line-height: 2em;
 }
 
+strong{
+  color:#005fb1ff ;
+}
+
 /*---------FOOTER-----------*/
 footer {
   text-align: center;
